@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.View
 import androidx.core.os.postDelayed
-import kotlinx.android.synthetic.main.activity_fullscreen.*
 import kotlinx.android.synthetic.main.activity_spalsh.*
 import kotlinx.android.synthetic.main.activity_spalsh.fullscreen_content
 
